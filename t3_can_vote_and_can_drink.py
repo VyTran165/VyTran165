@@ -20,3 +20,4 @@ class User2:
 if __name__ == '__main__':
     user_instance = User2(None)
     print(user_instance)
+
